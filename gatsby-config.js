@@ -10,6 +10,7 @@ module.exports = {
         path: `${__dirname}/src/pages`,
         name: 'pages',
       },
+	 }
     {
       resolve: `@chrismwilliams/gatsby-theme-cactus`,
       options: {
